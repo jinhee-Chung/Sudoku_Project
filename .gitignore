@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# editor
+.vscode/
+
+# python
+venv/
+__pycache__/
+*.pyc
+
+# secrets
+github_token
+
+# tutorial / practice
+1_tutorial/
+2_tutorial/
+datadrivenmood/
+git_project/
